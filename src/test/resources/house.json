@@ -1,0 +1,11 @@
+{
+  "floors": "3",
+  "material": "brick",
+  "color": "white",
+  "rooms": {
+    "bedroom": "4",
+    "livingRoom": "1",
+    "bathroom": "2"
+  }
+
+}
